@@ -1,4 +1,4 @@
-# Email_Message_Simulator
+# Email Messages Simulator
 This Python program simulates email messages using classes and methods. It demonstrates the application of the Object-Oriented Programming (OOP) principles. The program manages email messages in a systematic and modular way using OOP, making maintenance and extensibility simpler.
 It is divided into two classes called "Email" and "Inbox", each of which has a set of methods for dealing with and managing email messages.
 
