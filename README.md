@@ -11,4 +11,5 @@ It is divided into two classes called "Email" and "Inbox", each of which has a s
 2. Run the email.py file
 3. Follow the on-screen instructions to interact with the program
 
+
 THIS PROJECT IS DEVELOPED USING PYTHON.
